@@ -1,0 +1,1 @@
+HTML file was renamed from gp_cover to index.html to properly work on GitHub Pages.
